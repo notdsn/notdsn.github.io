@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.nextwavestudio.vitrine",
+      "sha256_cert_fingerprints": [
+        "BB:BA:17:D0:C1:94:0A:94:8F:E8:1D:5A:C4:56:92:55:1F:DB:0D:8E:45:57:EB:75:1A:64:94:19:3D:AE:3B:F0"
+      ]
+    }
+  }
+]
